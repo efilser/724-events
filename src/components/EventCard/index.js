@@ -1,6 +1,5 @@
 import PropTypes from "prop-types";
 import { getMonth } from "../../helpers/Date";
-
 import "./style.scss";
 
 const EventCard = ({
